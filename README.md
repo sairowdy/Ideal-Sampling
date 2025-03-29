@@ -1,12 +1,15 @@
 # Ideal-Sampling
 
 **Aim :**
-To Study and Analyze the Ideal SAmpling
+
+        To Study and Analyze the Ideal SAmpling
 
 **Tools required**;
-    Personal Computer with COLAB Software
+    
+         Personal Computer with COLAB Software
     
 **Program:**
+
 #Impulse Sampling
 
 import numpy as np
