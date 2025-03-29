@@ -86,4 +86,5 @@ plt.show()
 
 
 **Results:**
- Verified and Analyze the Ideal Sampling    
+
+         Verified and Analyze the Ideal Sampling    
