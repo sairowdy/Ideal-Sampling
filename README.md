@@ -1,8 +1,11 @@
 # Ideal-Sampling
+
 **Aim :**
 To Study and Analyze the Ideal SAmpling
+
 **Tools required**;
     Personal Computer with COLAB Software
+    
 **Program:**
 #Impulse Sampling
 import numpy as np
@@ -41,6 +44,7 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()
+
 **Output Waveform :**
 ![image](https://github.com/user-attachments/assets/416c1e20-01e2-432f-a872-ceb803d0891e)
 
